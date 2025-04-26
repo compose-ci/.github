@@ -1,1 +1,1 @@
-# .github
+# 🐙🛠️ Compose CI
